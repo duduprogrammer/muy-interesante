@@ -1,0 +1,1 @@
+en esta carpeta "controllers" van archivos .php que se encargan la progración y de cargar  archivos de "views" y de "models".

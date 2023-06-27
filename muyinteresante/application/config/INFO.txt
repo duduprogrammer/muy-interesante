@@ -1,0 +1,3 @@
+en esta carpeta "config" hay un archivo "router.php" que debe modificarse para que condeigniter cargue los archivos .php ubicados en "controllers" que nosotros queremos.
+
+también hay un archivo llamado "autoload.php" que sirve para auto-cargar herramientas js

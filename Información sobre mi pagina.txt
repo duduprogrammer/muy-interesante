@@ -1,0 +1,19 @@
+Buen dia/tarde/noche profesor.
+Queria comentarle las caracteristicas que actualmente posee mi página web.
+
+Disponible de las siguientes funcionalidades:
+
+1.- Base de datos MySQLi (Para poder automatizar un 40% la página web) a mi parecer.
+2.- API de obtención del clima en tiempo real, registré en la página openweather.org y me dieron una clave key para utilizar.
+3.- Obtención de los valores compra/venta del dolar, esto si que no conseguí api funcional, lo que hice fue enviar datos a la página www.dolarsi.com
+para obtener valores de ello, y mostrarlos en variables en arrays.
+4.- Noticias dinámicas, podrás crear tu noticia en la base de datos y esta se mostrará en la página web, no está del todo automatizado, se necesitan seguir
+creando archivos de noticias.
+5.- Sistema de iniciar sesión, usuario y clave básico, sin embargo había olvidado el registro, lo acabo de terminar hoy 25 de octubre despúes de las correcciones
+que usted dió.
+6.- Obtención de datos y variables de la base de datos.
+7.- Incluye boostrap, unos 3 estilos css, e imagenes de las noticias.
+8.- Anuncios en tiempo real (desactivado debido a que la página debe ser hosteada), en su lugar unos gif's.
+9.- Las secciónes funcionan según la categoria dada en la BASE DE DATOS.
+
+Y eso sería todo lo que incluye mi página web, muchas de esas funcionalidades fueron divertidas de colocar.
